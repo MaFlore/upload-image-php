@@ -1,0 +1,7 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(197, 158, 158, 0.736);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
